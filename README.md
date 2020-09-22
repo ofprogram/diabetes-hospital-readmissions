@@ -9,7 +9,7 @@ Predicting Diabetes Re-hospitalization
 
 # Data:
 
-The data are submitted on behalf of the Center for Clinical and Translational Research, Virginia Commonwealth University. It represents 10 years (1999-2008) of clinical care at 130 US hospitals and integrated delivery networks. It includes over 50 features representing patient and hospital outcomes.  Information was extracted from the database for encounters that satisfied the following criteria.
+The data are submitted on behalf of the Center for Clinical and Translational Research, Virginia Commonwealth University. Provided by UCI https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008# It represents 10 years (1999-2008) of clinical care at 130 US hospitals and integrated delivery networks. It includes over 50 features representing patient and hospital outcomes.  Information was extracted from the database for encounters that satisfied the following criteria.
  -It is an inpatient encounter (a hospital admission).
  -It is a diabetic encounter, that is, one during which any kind of diabetes was entered to the system as a diagnosis.
  -The length of stay was at least 1 day and at most 14 days.
